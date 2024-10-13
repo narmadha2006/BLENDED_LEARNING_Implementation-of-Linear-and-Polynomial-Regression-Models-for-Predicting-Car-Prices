@@ -42,8 +42,8 @@ Visualize residuals to assess model performance.
 ```
 /*
 Program to implement Linear and Polynomial Regression models for predicting car prices.
-Developed by: Preethi J
-RegisterNumber: 212223220080 
+Developed by: Narmadha S
+RegisterNumber: 212223220065
 */
 # Import necessary libraries
 import numpy as np
